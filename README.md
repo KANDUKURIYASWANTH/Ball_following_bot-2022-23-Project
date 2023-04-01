@@ -27,18 +27,25 @@
     <th>Registration number</th>
   </tr>
   <tr>
-    <td>Kandukuri Yaswanth</td>
-    <td>Civil Engineering</td>
-    <td>20201057</td>
+    <td>SSR Sri Harsha Kedarisetty</td>
+    <td>Computer science and engineering</td>
+    <td>20194527</td>
   </tr>
   <tr>
-    <td>Anurag gupta</td>
-    <td>Electronics and Communication Engineering</td>
-    <td>20195168</td>
+    <td>Vikas Gaur</td>
+    <td>Mechanical Engineering</td>
+    <td>20213038</td>
   </tr>
   <tr>
-    <td>Anurag gupta</td>
-    <td>Electronics and Communication Engineering</td>
-    <td>20195168</td>
+    <td>Vishal Yadav</td>
+    <td>Mechanical Engineering</td>
+    <td>20213044</td>
   </tr>
  </table>
+
+<h1> Tech Stack </h1>
+<ul>
+  <li>Python</li>
+  <li>OpenCV</li>
+  <li>Raspberry Pi [Raspbian OS buster series]</li>
+ <ul>
