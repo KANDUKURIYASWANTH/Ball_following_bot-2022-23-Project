@@ -19,3 +19,26 @@
     <td>20195168</td>
   </tr>
  </table>
+<h3>This project is completed by</h3>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Branch</th>
+    <th>Registration number</th>
+  </tr>
+  <tr>
+    <td>Kandukuri Yaswanth</td>
+    <td>Civil Engineering</td>
+    <td>20201057</td>
+  </tr>
+  <tr>
+    <td>Anurag gupta</td>
+    <td>Electronics and Communication Engineering</td>
+    <td>20195168</td>
+  </tr>
+  <tr>
+    <td>Anurag gupta</td>
+    <td>Electronics and Communication Engineering</td>
+    <td>20195168</td>
+  </tr>
+ </table>
