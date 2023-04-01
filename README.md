@@ -28,8 +28,8 @@
   </tr>
   <tr>
     <td>SSR Sri Harsha Kedarisetty</td>
-    <td>Computer science and engineering</td>
-    <td>20194527</td>
+    <td>Computer Science and Engineering</td>
+    <td>20214527</td>
   </tr>
   <tr>
     <td>Vikas Gaur</td>
