@@ -1,4 +1,4 @@
-# Ball_following_bot-2022-23-Project
+<h1>Ball_following_bot-2022-23-Project</h1>
 <p>This is one of a project based on hardware and OpenCV which is proposed and executed by robotics club to provide hands on experience and exposure to the students in different fields related to robotics.</p>
 <p>The project report has been detailed in the report doc along with the hardware components and tech stack</p>
 <h3>This project is mentored by</h3>
