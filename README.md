@@ -4,6 +4,7 @@
 <img src="https://user-images.githubusercontent.com/79747698/229343724-9ffa2d01-7c86-4305-b14d-dd788f58a9de.jpeg" alt="Robotics club MNNIT" />
 <h3>About</h3>
 <p>This is a project based on hardware and OpenCV which is proposed and executed by robotics club of MNNIT to provide hands on experience and exposure to the students in different fields related to robotics.</p>
+<a href="https://docs.google.com/document/d/17xLJpWrEIXT_AcRMnBkWl0CHhPLJ41qx/edit?usp=sharing&ouid=103899715355250010935&rtpof=true&sd=true" target="_blank">Project report</a>
 <img src="https://user-images.githubusercontent.com/79747698/229343600-aa178f7f-1cf4-4532-8e00-98a17d6e7e50.jpg" alt="Ball following bot" width="70%" height="60%"/>
 <hr>
 <h3>This project is mentored by:</h3>
